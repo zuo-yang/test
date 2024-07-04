@@ -1,0 +1,2 @@
+readme文件是一个markdown文件，
+这是一个用于学习Git的示例仓库。
